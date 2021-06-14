@@ -1,0 +1,21 @@
+// Place all the styles related to the users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container{
+
+
+width: 30%;   /* == 400px * .5 = 200px */
+height: 50%;  /* == 160px * .25 = 40px */
+margin: 5%;   /* == 400px * .05 = 20px */
+padding: 5%;  /* == 400px * .05 = 20px */
+background: white;
+border-radius : 10px;
+
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+
+
+}
